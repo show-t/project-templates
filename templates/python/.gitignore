@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info
+
+# Build output
+dist/
+build/
+
+# uv virtualenv
+.vanv/
+venv/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.Log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Test artifacts
+.coverage
+htmlcov/
+
