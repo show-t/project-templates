@@ -17,7 +17,7 @@ A minimal Python project template using uv.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/python-template.git
+git clone https://github.com/show-t/python-template.git
 cd python-template
 ```
 

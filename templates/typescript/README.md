@@ -20,7 +20,7 @@ A minimal TypeScript project template for Node.js or frontend development
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/typescript-template.git
+git clone https://github.com/show-t/typescript-template.git
 cd typescript-template
 ```
 
